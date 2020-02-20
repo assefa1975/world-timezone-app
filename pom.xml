@@ -34,7 +34,7 @@
 				<username>hailu76</username>
 				<password>Pa55w0rd</password>
 				<environment>Sandbox</environment>
-				<workers>1</workers>
+				<Workers>1</Workers>
 				<workerType>Micro</workerType>
 				<applicationName>worlddemoapi2</applicationName>
 				<muleVersion>4.2.2</muleVersion>
