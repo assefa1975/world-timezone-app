@@ -41,6 +41,8 @@
 				<muleVersion>4.2.2</muleVersion>
 				</cloudHubDeployment>
 				</configuration>
+				
+				
 			</plugin>
 		</plugins>
 	</build>
